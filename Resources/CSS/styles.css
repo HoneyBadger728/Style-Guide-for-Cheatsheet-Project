@@ -1,0 +1,63 @@
+body {
+    margin: 0 3%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    border: 3px solid black;
+    margin: 10px auto;
+    padding: 10px;
+    background-image: url(shutterstock_402724045.jpg);
+    background-size: cover;
+}
+
+h2 {
+    font-size: 2em;
+    background-color: khaki;
+    width: fit-content;
+    padding: .4% 2%;
+    border: 3px solid cyan;
+}
+
+.color-container {
+    width: 100%;
+    text-align: center;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 20px .3%;
+}
+
+.color-label {
+    font-weight: 700;
+    font-size: 1.8em;
+    
+
+}
+
+.color-hex {
+    font-size: 1.5em;
+    font-weight: 700;
+   
+}
+
+.cyan {
+    background-color: cyan;
+    color: khaki;
+    border: 5px solid black;
+}
+
+.black {
+    background-color: black;
+    color: cyan;
+    border: 5px solid khaki;
+}
+
+.khaki {
+    background-color: khaki;
+    color:  black;
+    border: 5px solid cyan;
+}
