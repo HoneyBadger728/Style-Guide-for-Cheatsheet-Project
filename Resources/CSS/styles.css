@@ -61,3 +61,69 @@ h2 {
     color:  black;
     border: 5px solid cyan;
 }
+
+.font-container {
+    text-align: center;
+    width: 100%;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+    background-color: khaki;
+    height: 240px;
+    vertical-align: top;
+    margin: 20px .3%;
+}
+
+.font-label {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.teko {
+    font-family: 'teko';
+}
+
+.times-new-roman {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+p {
+    font-size: 20px;
+}
+
+.text-panel {
+    background-color: khaki;
+    width: 55%;
+}
+
+.main-page-heading {
+    font-family: 'teko';
+    font-weight: 700;
+    font-size: 65px;
+    padding: 5 20px;
+}
+
+.subheading {
+    border: none;
+    font-family: teko;
+    font-weight: 700;
+    font-size: 1.5em;
+    padding: 5 20px;
+}
+
+.paragraph-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 1em;
+    padding: 5 20px;
+}
