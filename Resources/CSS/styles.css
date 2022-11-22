@@ -60,6 +60,7 @@ h2 {
     background-color: khaki;
     color:  black;
     border: 5px solid cyan;
+<<<<<<< HEAD
 }
 
 .font-container {
@@ -126,4 +127,6 @@ p {
     font-weight: 700;
     font-size: 1em;
     padding: 5 20px;
+=======
+>>>>>>> refs/remotes/origin/Master
 }
